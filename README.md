@@ -1,0 +1,7 @@
+{
+  "name": "BULLWHALE",
+  "symbol": "$BULLW",
+  "description": "BULL WHALE to the moon—next WHALE meme on Solana!",
+  "image": "https://raw.githubusercontent.com/Hoodlums453/bullw-metadate/refs/heads/main/BULLW.JPEG",
+  "twitter": "https://x.com/Bullwhalesol"
+}
